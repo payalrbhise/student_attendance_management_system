@@ -1,0 +1,19 @@
+Session:,"2023 AUTUMN SEMESTER"
+Course:,"CO321-Database management system lab"
+Faculty:,"Ram Charan Baishya"
+total,8
+start,2023-10-16
+end,2024-01-24
+slno,rollno,name,attended,percent
+1,CSB21001,"Emily Johnson",8,100
+2,CSB21002,"Michael Smith",2,25
+3,CSB21003,"Sarah Martinez",3,37.5
+6,CSB21006,"Christopher Davis",3,37.5
+14,CSM21002,"William White",3,37.5
+15,CSM21003,"Chloe Martin",3,37.5
+16,CSM21004,"Benjamin Clark",2,25
+17,CSM21005,"Isabella Hall",2,25
+18,CSM21006,"Alexander Lee",1,12.5
+20,CSM21008,"Samuel Turner",3,37.5
+21,CSM21009,"Natalie Harris",3,37.5
+23,CSM21011,"Lily Reed",5,62.5
